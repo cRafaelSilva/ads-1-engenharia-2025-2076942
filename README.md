@@ -71,5 +71,7 @@ Ferramenta para gestão on-line de métodos ágeis auxiliando na organização d
 Fontes:
 MORAIS, Izabelly S.; ZANIN, Aline. Engenharia de software. Porto Alegre: SAGAH, 2020. E-book. p.82. ISBN 9788595022539. Disponível em: https://app.minhabiblioteca.com.br/reader/books/9788595022539/. Acesso em: 11 mar. 2025.
 MASCHIETTO, Luís G.; RODRIGUES, Thiago N.; BIANCO, Clicéres M D.; et al. Processos de Desenvolvimento de Software. Porto Alegre: SAGAH, 2020. E-book. p.35. ISBN 9786556900520. Disponível em: https://app.minhabiblioteca.com.br/reader/books/9786556900520/. Acesso em: 11 mar. 2025.
-![image](https://github.com/user-attachments/assets/5d878642-1300-4065-9946-9d1bc8671a7c)
+````
+![image](https://github.com/user-attachments/assets/421a94dc-0519-4a87-8d36-969a83c4713e)
+
 
